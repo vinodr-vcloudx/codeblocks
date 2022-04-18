@@ -1,0 +1,65 @@
+.enxHookmessage1 {
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    height: 100px;
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+.enxHookmessage2 {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100px;
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+.enxHookmessage3 {
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    height: 100px;
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+.enxHookmessage4 {
+    position: fixed;
+    top: 50%;
+    left: 10%;
+    height: 100px;
+    transform: translateY(-50%);
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+.enxHookmessage5 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+.enxHookmessage6 {
+    position: fixed;
+    top: 50%;
+    right: 10%;
+    height: 100px;
+    transform: translateY(-50%);
+    width: 200px;
+    background: rgb(145, 232, 6);
+    color: black;
+    z-index: 500000;
+}
+
